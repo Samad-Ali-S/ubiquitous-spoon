@@ -1,1 +1,1 @@
-Testing Github and aMaking first Readme file .also using pull request Feature and making Multipe Branches.
+Testing Github and a Making first ReadMe file . Also using pull request Feature and making Multipe Branches.
