@@ -1,5 +1,5 @@
 # Learning Git and GitHub
-This is the repository for the LinkedIn Learning course Learning Git and GitHub. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Learning Git and GitHub. The full course is available from  .
 
 ![Learning Git and GitHub][lil-thumbnail-url] 
 
