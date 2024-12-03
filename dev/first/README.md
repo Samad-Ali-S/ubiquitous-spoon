@@ -17,7 +17,7 @@ When switching from one exercise files branch to the next after making changes t
     Aborting
 
 To resolve this issue:
-	
+	 
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
